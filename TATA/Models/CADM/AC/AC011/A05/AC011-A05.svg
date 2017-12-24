@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="2500" height="1000">
+<model></model>
+<createtime>2017年4月14日 17:56</createtime>
+<lastmodified>2017年6月15日 15:33</lastmodified>
+<designer></designer>
+<part_params></part_params>
+<pathorder></pathorder>
+<tools></tools>
+<desc>门板设计</desc>
+<rect name-id = "w1" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOjsJt8uXSQcXhP1H7" style = "fill:none; stroke:Black; stroke-width:1" x = "44," y = "84," width = "1618," height = "802," rx = "0," ry = "0," />
+<toolpath name-id = "w2" style = "fill:none; stroke:Black; stroke-width:1" toolpath-config = "Tx4oXB4pUR0vXukyHOnbY+/1FuAaHA3rSu8aHA3rSu8aHA3rSu8aHA4aHA3rSu8aHA3rSu8aSr" x = "86," y = "144," width = "120," height = "48," />
+<line name-id = "w3" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOkhVScgU+nbWBQhY9wcWBgiWekyIA4nURUvSxUkZBQfSu7pHA32DCEkUxcvGRAnVRYpJiXvSyEkUxcvSxUkZBQfSu7pHA32DBEqYCMqWNwcWBgiWekyIA4vWy8aUhgzURMaIuIa" style = "fill:none; stroke:Black; stroke-width:1" x1 = "70," y1 = "366," x2 = "1592," y2 = "366," />
+<line name-id = "w4" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOkhVScgU+nbWBQhY9wcWBgiWekyHQ4nURUvSxUkZBQfSu/yHA32DCEkUxcvGRAnVRYpJiXsSyEkUxcvSxUkZBQfStvsI+8aJt8vWy7oTRskUxz1YuAaZRIgWiMgXg4hVScgUA3rGe8a" style = "fill:none; stroke:Black; stroke-width:1" x1 = "82," y1 = "454," x2 = "1592," y2 = "454," />
+<line name-id = "w5" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOkhVScgU+nbWBQhY9wcWBgiWekyIA4nURUvSxUkZBQfSu7pHA32DCEkUxcvGRAnVRYpJiXvSyEkUxcvSxUkZBQfSu7pHA32DCMqX9wcWBgiWekyIA4dWyMvWxwaUhgzURMaGOXuSr" style = "fill:none; stroke:Black; stroke-width:1" x1 = "80," y1 = "544," x2 = "1604," y2 = "544," />
+<line name-id = "w6" align-attribute = "XyMtUSMeV9wzJhUkZBQfJt8uYCEgYBIjGSf1HOnbWBQhY9wcWBgiWekyIA4nURUvSxUkZBQfSu/wHNzwSunbYB4rGRAnVRYpJiXuSyMqXA4hVScgUA3sIO8aJt8dWyMvWxvoTRskUxz1YuQaTh4vYB4oSxUkZBQfStvsIO8a" style = "fill:none; stroke:Black; stroke-width:1" x1 = "288," y1 = "224," x2 = "288," y2 = "644," />
+<line name-id = "w7" align-attribute = "XyMtUSMeV9wzJhUkZBQfJt8uYCEgYBIjGSf1HOnbWBQhY9wcWBgiWekyIg4nURUvSxUkZBQfSuXuSunbYB4rGRAnVRYpJiXxSyMqXA4hVScgUA3rGe8aJt8dWyMvWxvoTRskUxz1YuUaTh4vYB4oSxUkZBQfSu7pHA3" style = "fill:none; stroke:Black; stroke-width:1" x1 = "410," y1 = "230," x2 = "410," y2 = "650," />
+<line name-id = "w8" align-attribute = "XyMtUSMeV9wzJhUkZBQfJt8uYCEgYBIjGSf1HOnbWBQhY9wcWBgiWekyIw4nURUvSxUkZBQfSuXuSunbYB4rGRAnVRYpJiXxSyMqXA4hVScgUA3rGe8aJt8dWyMvWxvoTRskUxz1YuUaTh4vYB4oSxUkZBQfSu7pHA3" style = "fill:none; stroke:Black; stroke-width:1" x1 = "544," y1 = "232," x2 = "544," y2 = "652," />
+<toolpath name-id = "w9" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOjs" style = "fill:none; stroke:Black; stroke-width:1" toolpath-config = "Tx4oXB4pUR0vXukyHunbY+/1FuAaHNzwSw3rSu8aHA3rSu8aHA3rSu8aSu8aHA3rSu8aHA3rSw3" x = "1158," y = "310," width = "130," height = "64," />
+<toolpath name-id = "w10" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOjs" style = "fill:none; stroke:Black; stroke-width:1" toolpath-config = "Tx4oXB4pUR0vXukyI+nbY+/1FuAaHNzwSu8aHA3rSu8aHA3rSu8aHA3rSw3rSu8aHA3rSu8aHA4a" x = "1162," y = "418," width = "128," height = "70," />
+<toolpath name-id = "w11" style = "fill:none; stroke:Black; stroke-width:1" toolpath-config = "Tx4oXB4pUR0vXukyIOnbY+/1FuAaHNzwSu8aHA3rSu8aHA3rSu8aHA3rSw3rSu8aHA3rSu8aHA4a" x = "1158," y = "518," width = "126," height = "64," />
+<toolpath name-id = "w12" style = "fill:none; stroke:Black; stroke-width:1" toolpath-config = "Tx4oXB4pUR0vXukyIenbY+/1FuAaHNzwSu8aHA3rSu8aHA3rSu8aHA3rSw3rSu8aHA3rSu8aHA4a" x = "238," y = "698," width = "100," height = "76," />
+<toolpath name-id = "w13" style = "fill:none; stroke:Black; stroke-width:1" toolpath-config = "Tx4oXB4pUR0vXukyIunbY+/1FuAaHNzwSu8aHA3rSu8aHA3rSu8aHA3rSw3rSu8aHA3rSu8aHA4a" x = "378," y = "662," width = "96," height = "62," />
+<toolpath name-id = "w14" style = "fill:none; stroke:Black; stroke-width:1" toolpath-config = "Tx4oXB4pUR0vXukyJ+nbY+/1FuAaHNzwSu8aHA3rSu8aHA3rSu8aHA3rSw3rSu8aHA3rSu8aHA4a" x = "508," y = "680," width = "118," height = "74," />
+</svg>

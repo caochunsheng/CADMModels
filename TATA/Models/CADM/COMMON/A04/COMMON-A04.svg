@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="2464" height="964">
+<model></model>
+<createtime>2017年6月15日 16:40</createtime>
+<lastmodified>2017年7月22日 8:39</lastmodified>
+<designer></designer>
+<part_params></part_params>
+<pathorder></pathorder>
+<tools></tools>
+<desc>门板设计</desc>
+<rect name-id = "w1" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOjsJt8uXSQcXhP1H7" style = "fill:none; stroke:Black; stroke-width:1" x = "68," y = "62," width = "1178," height = "120," rx = "0," ry = "0," />
+<line name-id = "w2" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOkhVScgU+nbWBQhY9wcWBgiWekyHQ4nURUvSxUkZBQfSuMaJt8tVRYjY9wcWBgiWekyHw4nURUvSxUkZBQfSu7pHA32DCMqX9wcWBgiWekyHQ4vWy8aUhgzURMaGOMa" style = "fill:none; stroke:Black; stroke-width:1" x1 = "152," y1 = "286," x2 = "1104," y2 = "286," />
+<line name-id = "w3" align-attribute = "XyMtUSMeV9wzJhUkZBQfJt8uYCEgYBIjGSf1HOnbXhgiVCLoTRskUxz1YuAaXhgiVCMaUhgzURMaGOMaJt8vWy7oTRskUxz1YuEaYB4rSxUkZBQfSu7pHA32DBEqYCMqWNwcWBgiWekyIA4vWy8aUhgzURMaH9zrSr" style = "fill:none; stroke:Black; stroke-width:1" x1 = "1106," y1 = "284," x2 = "1106," y2 = "618," />
+<line name-id = "w4" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOkhVScgU+nbWBQhY9wcWBgiWekyHg4nURUvSxUkZBQfSu7pHA32DCEkUxcvGRAnVRYpJiXuSxsgUiMaUhgzURMaH9zrSunbTh4vYB4oGRAnVRYpJiXsSxEqYCMqWQ4hVScgUA3vSr" style = "fill:none; stroke:Black; stroke-width:1" x1 = "184," y1 = "614," x2 = "1088," y2 = "614," />
+<toolpath name-id = "w5" style = "fill:none; stroke:Black; stroke-width:1" toolpath-config = "Tx4oXB4pUR0vXukyHOnbWyQvWBgpUOjsJt8vHOjmHQ3rSu8aHA3rSu8aHA3rSu8aHA3rSw3rSu8aHA3rSu8aHA4a" x = "224," y = "116," width = "64," height = "62," />
+<toolpath name-id = "w6" style = "fill:none; stroke:Black; stroke-width:1" toolpath-config = "Tx4oXB4pUR0vXukyHiXuYuL2DCLsJdnsSu/uGeQaHA3rSu8aHA3rSu8aHA3rSu8aSu8aHA3rSu8aHA3rSw3" x = "568," y = "402," width = "116," height = "50," />
+</svg>

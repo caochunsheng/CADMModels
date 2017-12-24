@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="2500" height="1000">
+<model></model>
+<createtime>2012年4月25日 星期三 17:19</createtime>
+<lastmodified>2017年7月5日 17:04</lastmodified>
+<designer></designer>
+<part_params></part_params>
+<pathorder></pathorder>
+<tools></tools>
+<desc>门板设计</desc>
+<rect name-id = "w1" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOjsJt8uXSQcXhP1H7" style = "fill:none; stroke:Black; stroke-width:1" x = "160," y = "88," width = "1110," height = "650," rx = "0," ry = "0," />
+<embedded name-id = "w2" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOjsJt8nURUvGRAnVRYpJiXsSxsgUiMaUhgzURMaH9zrSunbXhgiVCLoTRskUxz1YuAaXhgiVCMaUhgzURMaH9zrSunbYB4rGRAnVRYpJiXsSyMqXA4hVScgUA3rGe8aJt8dWyMvWxvoTRskUxz1YuAaTh4vYB4oSxUkZBQfSu7pHA3" toolpath-config = "Tx4oXB4pUR0vXukyHenbY+/1FuAaHg3rSu8aHA3rSu8aHA3rSu8aHA4aHA3rSu7" xlink:clip = "DBInVS8yVR0fWyX1UBguTREnURL2DC8qXxAhYBQtTxskX+kpWx0gHOnbTyQvWyQvWBgpUOjrJt8tUS8nTRIgZejrJt8rWxs0Ux4pWR4fUOjrJt8qUhUuUSMaZ+j2DB4hUiIgYA40JenbWxUhXxQvSyj1Jt8vXhApXxUqXhv1Wh4pUN7" xlink:href = "LPHoH+/0Sv/rIN0pTr" x = "320," y = "198," width = "728," height = "408,"></embedded>
+<toolpath name-id = "w3" style = "fill:none; stroke:Black; stroke-width:1" toolpath-config = "Tx4oXB4pUR0vXukyHOnbWyQvWBgpUOjsJt8vHOjmHQ3rSu8aHA3rSu8aHA3rSu8aHA3rSw3rSu8aHA3rSu8aHA4a" x = "200," y = "738," width = "122," height = "90," />
+</svg>

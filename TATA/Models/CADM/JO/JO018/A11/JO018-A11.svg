@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="2500" height="1000">
+<model></model>
+<createtime>2017年6月15日 21:08</createtime>
+<lastmodified>2017年6月16日 15:29</lastmodified>
+<designer></designer>
+<part_params></part_params>
+<pathorder></pathorder>
+<tools></tools>
+<desc>门板设计</desc>
+<rect name-id = "w1" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOjsJt8uXSQcXhP1H7" style = "fill:none; stroke:Black; stroke-width:1" x = "92," y = "70," width = "1184," height = "132," rx = "0," ry = "0," />
+<rect name-id = "w2" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOjsJt8uXSQcXhP1H+nbWBQhY9wcWBgiWekyHQ4nURUvSxUkZBQfSu/zHA32DCEkUxcvGRAnVRYpJiXsSxsgUiMaUhgzURMaJ+LrSunbYB4rGRAnVRYpJiXsSyMqXA4hVScgUA3oHODrSunbTh4vYB4oGRAnVRYpJiXsSxEqYCMqWQ4hVScgUA3sHe8a" style = "fill:none; stroke:Black; stroke-width:1" x = "32," y = "284," width = "478," height = "356," rx = "0," ry = "0," />
+<rect name-id = "w3" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOjsJt8uXSQcXhP1H+nbWBQhY9wcWBgiWekyHg4tVRYjYA4hVScgUA3sIO8aJt8tVRYjY9wcWBgiWekyHQ4tVRYjYA4hVScgUA3oHODrSunbYB4rGRAnVRYpJiXtSyMqXA4hVScgUA3rGe8aJt8dWyMvWxvoTRskUxz1YuEaTh4vYB4oSxUkZBQfSu7pHA3" style = "fill:none; stroke:Black; stroke-width:1" x = "552," y = "288," width = "732," height = "356," rx = "0," ry = "0," />
+<toolpath name-id = "w4" style = "fill:none; stroke:Black; stroke-width:1" toolpath-config = "Tx4oXB4pUR0vXukyHOnbWyQvWBgpUOjsJt8vHOjmHQ3rSu8aHA3rSu8aHA3rSu8aHA3rSw3rSu8aHA3rSu8aHA4a" x = "124," y = "104," width = "132," height = "66," />
+<toolpath name-id = "w5" style = "fill:none; stroke:Black; stroke-width:1" toolpath-config = "Tx4oXB4pUR0vXukyHenbY+/1FuAaHA3rSu8aHA3rSu8aHA3rSu8aHA4aHA3rSu8aHA3rSu8aS26Wu46H4SsjH+/0Jt8vHOjmHQ3rSu8aHA3rSu8aHA3rSu8aHA3rSw3rSu8aHA3rSu8aHA4aq4qKy3uwaBbrHOf" x = "152," y = "528," width = "94," height = "54," />
+<toolpath name-id = "w6" style = "fill:none; stroke:Black; stroke-width:1" toolpath-config = "Tx4oXB4pUR0vXukyHunbY+/1FuAaHA3rSu8aHA3rSu8aHA3rSu8aHA4aHA3rSu8aHA3rSu8aS26Wu46H4SsjH+/0Jt8vHOjmHQ3rSu8aHA3rSu8aHA3rSu8aHA3rSw3rSu8aHA3rSu8aHA4aq4qKy3uwaBbrHOf" x = "812," y = "540," width = "94," height = "54," />
+</svg>

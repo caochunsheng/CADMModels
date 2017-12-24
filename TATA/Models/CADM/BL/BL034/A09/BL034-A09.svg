@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="2500" height="1000">
+<model></model>
+<createtime>2017年6月22日 15:24</createtime>
+<lastmodified>2017年6月22日 15:25</lastmodified>
+<designer></designer>
+<part_params></part_params>
+<pathorder></pathorder>
+<tools></tools>
+<desc>门板设计</desc>
+<rect name-id = "w1" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOjsJt8uXSQcXhP1H7" style = "fill:none; stroke:Black; stroke-width:2" x = "146," y = "78," width = "1060," height = "176," rx = "0," ry = "0," />
+<rect name-id = "w4" align-attribute = "XyMtUSMeV9wzJhUkZBQfJt8uYCEgYBIjGSf1HOnbXyAwTSEgJe72DBsgUiLoTRskUxz1YuAaWBQhYA4hVScgUA3vHe8aJt8vWy7oTRskUxz1YuAaYB4rSxUkZBQfStvsH+8aJt8dWyMvWxvoTRskUxz1YuAaTh4vYB4oSxUkZBQfSu/rHA3" style = "fill:none; stroke:Black; stroke-width:2" x = "504," y = "436," width = "50," height = "246," rx = "0," ry = "0," />
+<rect name-id = "w5" align-attribute = "XyMtUSMeV9wzJhUkZBQfJt8uYCEgYBIjGSf1HOnbXyAwTSEgJe72DBsgUiLoTRskUxz1YuMaXhgiVCMaUhgzURMaHO7rSunbYB4rGRAnVRYpJiXvSyMqXA4hVScgUA3rGe8aJt8dWyMvWxvoTRskUxz1YuMaTh4vYB4oSxUkZBQfSu7pHA3" style = "fill:none; stroke:Black; stroke-width:2" x = "588," y = "434," width = "50," height = "246," rx = "0," ry = "0," />
+<toolpath name-id = "w8" style = "fill:none; stroke:Black; stroke-width:2" toolpath-config = "Tx4oXB4pUR0vXukyHOnbWyQvWBgpUOjsJt8vHOjmHQ3rSu8aHA3rSu8aHA3rSu8aHA3rSw3rSu8aHA3rSu8aHA4a" x = "288," y = "144," width = "50," height = "56," />
+<toolpath name-id = "w9" style = "fill:none; stroke:Black; stroke-width:2" toolpath-config = "Tx4oXB4pUR0vXukyI+nbY+/1FuAaHA3rSu8aHA3rSu8aHA3rSu8aHA4aHA3rSu8aHA3rSu8aS2FerVZz3X6auKQ3V+7rHR/2DCLsJdnsSu8aHA3rSu8aHA3rSu8aHA3rSu8aSu8aHA3rSu8aHA3rSw5tj3BipKCKy3uwaBbrH+AcJt8vHOjmHQ3rSu8aHA3rSu8aHA3rSu8aHA3rSw3rSu8aHA3rSu8aHA4anlK8k2esu46H4SsjH+7sTOnbY+/1FuAaHA3rSu8aHA3rSu8aHA3rSu8aHA4aHA3rSu8aHA3rSu8aS2FerVZz3X6auKQ3V+7rHR/" x = "148," y = "624," width = "46," height = "80," />
+<toolpath name-id = "w10" style = "fill:none; stroke:Black; stroke-width:2" toolpath-config = "Tx4oXB4pUR0vXukyIOnbY+/1FuAaHA3rSu8aHA3rSu8aHA3rSu8aHA4aHA3rSu8aHA3rSu8aS2FerVZz3X6auKQ3V+7rHR/2DCLsJdnsSu8aHA3rSu8aHA3rSu8aHA3rSu8aSu8aHA3rSu8aHA3rSw5tj3BipKCKy3uwaBbrH+AcJt8vHOjmHQ3rSu8aHA3rSu8aHA3rSu8aHA3rSw3rSu8aHA3rSu8aHA4anlK8k2esu46H4SsjH+7sTOnbY+/1FuAaHA3rSu8aHA3rSu8aHA3rSu8aHA4aHA3rSu8aHA3rSu8aS2FerVZz3X6auKQ3V+7rHR/" x = "278," y = "648," width = "46," height = "80," />
+</svg>

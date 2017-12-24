@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="2498" height="998">
+<model></model>
+<createtime>2017年4月14日 17:56</createtime>
+<lastmodified>2017年6月15日 15:36</lastmodified>
+<designer></designer>
+<part_params></part_params>
+<pathorder></pathorder>
+<tools></tools>
+<desc>门板设计</desc>
+<rect name-id = "w1" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOjsJt8uXSQcXhP1H7" style = "fill:none; stroke:Black; stroke-width:1" x = "20," y = "12," width = "1636," height = "938," rx = "0," ry = "0," />
+<toolpath name-id = "w2" style = "fill:none; stroke:Black; stroke-width:1" toolpath-config = "Tx4oXB4pUR0vXukyHOnbWyQvWBgpUOjsJt8vHOjmHQ3rSu8aHA3rSu8aHA3rSu8aHA3rSw3rSu8aHA3rSu8aHA4a" x = "42," y = "34," width = "94," height = "38," />
+<text name-id = "w3" style = "fill:Black; font-family:Tahoma; font-size:18pt" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOjmHOnbWBQhY9wcWBgiWekyHQ4nURUvSxUkZBQfSu7pHA32DCEkUxcvGRAnVRYpJiXsSyEkUxcvSxUkZBQfSu7pHA32DCMqX9wcWBgiWekyHQ4vWy8aUhgzURMaH9zrSunbTh4vYB4oGRAnVRYpJiXsSxEqYCMqWQ4hVScgUA3rGe8a" toolpath-config = "Tx4oXB4pUR0vXukyHunbY+X1FuAaHNzwSu8aHA3rSu8aHA3rSu8aHA3rSw3rSu8aHA3rSu8aHA4a" xlink:clip = "DBInVS8yVR0fWyX1UBguTREnURL2DBIwYB4wYBskWhP1H+nbXhQrWBAeUSj1H+nbYCEcWiIhWyEoJh0qWhPb" x = "78," y = "243," width = "1480," height = "660," >F/AtYBguWRApD/QoThQfUBQfDAMqWxsrTSMjG98+Wy80XhgiVCLbL97tH+/tFLjjQB4qWC8cYBbbOhAoUOjbYuHnDAEgUhQtUR0eUN8LWxgpY987DBsgUiMaTh4vYB4oFLjFDu/rH+vfUBrbF/sgWhYvV98qUd8vVBPbMB4qXdrbDN/cM/3bOf4PD/wKM/gBRNfFDu/rHOvfUCXbFAYkUCMjDB4hDCMjUN8/Wx4tG97cDNA/Ot8JOwLbOP4/NPUUFLjFDu/rHewyHt0nD9cHURUvD/EqXhMgXdrbDN/cM/3bOf4PD/wKM/gBRNfFDu/rHuwyHt0tD9cNVRYjY989WyEfUSDnD9/cDPMKD/0KQ98IOvMEMgfk9dHsH+L4YuHpY97jQB4rD/EqXhMgXdrbDN/cM/3bOf4PD/wKM/gBRNfFDu/rIOwyHt0dD9c9WyMvWxvbLh4tUBQtG97cDNA/Ot8JOwLbOP4/NPUUFLjFDu/sHevr9dHsHOH4HN7bD9ctTRMkYSHbWxTbYBcgDCMqWxrk9bjeHO7xKPUERAneHO7rGuLrSN7bD9cpYRwdUSDbWxTbYhQtYBgeTRrbWBgpUSHk9dHsH+b4RwneHO7rGODlDu/sHtkWDu/rIdvsSQvqDu/rIgvbD97bD9cxUSEvVRIcW98dWB4eVtfFDu/sH+wWDu/rHdneHO7zFtHsHOIYD97bD9cxUSEvVRIcW98nVR0gDC8qXxgvVR4pFLjFDu/sHevr9f3sH+7bXhQrURAvRtHsH+ToHQvFOu/rHd8kUd8WDu/sHd8APN7rSLjFMu7rDAcWDu/sHAvbRQneHO7vSN7FMu7sDAgWDu/rIQvbFBYqDBMqYxzk9bjeHO/tKO/FOu/rHd8gWCIg9bkCH+7bRAneHO/rSN7FMu7sDAgWDu/rIAvbFBYqDCQrFLjeHO/tKO7FOu/rHd8gWhLbVRTF9dHsHO74RtHsHO7mDu/rJ9ntFdHsHOIY9bkKHO7rDBQpUCEgXBQcY7jFDu/rIuwBNQcWDu/rHN3vHAvbD97jWiQoThQtDB4hDBcqXhg1WxzbWBgpUSHk9dHsH+f4RwneHO7sGODlDu/sHtkWDu/rItvsSQvqDu/rIwvbD97bFBcqXhg1WxzbThsqTxnk9dHsHO/4RtHsH+PmDu/rJNneHO/uSN7bD97jVB4tVSkqWd8nVR0gDC8qXxgvVR4pFLjFDu/sHevr9f3tH+7bXhQrURAvRtHsH+XoHQvFOu/rHt8kUd8WDu/sHd8APN7rSLjFMu7rDAcWDu/rHgvbRQneHO/sSLkCH+/bRAneHO7uSN7jUx3bXhgiVCLk9bjeHO/tKO/FOu/rHt8gWCIg9bkCH+7bRQneHO/sSLkCH+/bRAneHO7tSN7jUx3bWBQhY9fFDu/sHevr9f3sH+HbUR0fDBgh9bjeHO/sKQneHO/sFtHsH+fmHdjeHO/uSLjFOuDrH98gWhMtUS8gTSLF9fvrHbj</text>
+</svg>

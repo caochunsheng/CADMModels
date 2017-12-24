@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="2500" height="1000">
+<model></model>
+<createtime>2012年5月27日 星期日 17:00</createtime>
+<lastmodified>2017年5月25日 11:01</lastmodified>
+<designer></designer>
+<part_params></part_params>
+<pathorder></pathorder>
+<tools></tools>
+<desc>门板设计</desc>
+<rect name-id = "w1" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOjsJt8uXSQcXhP1H7" style = "fill:none; stroke:Black; stroke-width:1" x = "42," y = "30," width = "1504," height = "54," rx = "0," ry = "0," />
+<toolpath name-id = "w2" style = "fill:none; stroke:Black; stroke-width:1" toolpath-config = "Tx4oXB4pUR0vXukyHOnbWyQvWBgpUOjsJt8vHOjmHQ3rSu8aHA3rSu8aHA3rSu8aHA3rSw3rSu8aHA3rSu8aHA4a" x = "70," y = "38," width = "66," height = "44," />
+<rect name-id = "w3" align-attribute = "XyMtUSMeV9wzJhUkZBQfJt8uYCEgYBIjGSf1Fu/2DCIsYRAtUOjrJt8nURUvGRAnVRYpJiXsSxsgUiMaUhgzURMaHOXrSunbYB4rGRAnVRYpJiXsSyMqXA4hVScgUA3oHODrSunbTh4vYB4oGRAnVRYpJiXsSxEqYCMqWQ4hVScgUA3sHe8a" style = "fill:none; stroke:Black; stroke-width:1" x = "148," y = "238," width = "600," height = "308," rx = "0," ry = "0," />
+<toolpath name-id = "w4" style = "fill:none; stroke:Black; stroke-width:1" toolpath-config = "Tx4oXB4pUR0vXukyHunbY+/1FuAaHA3rSu8aHA3rSu8aHA3rSu8aHA4aHA3rSu8aHA3rSu8aSr" x = "242," y = "354," width = "84," height = "70," />
+<rect name-id = "w5" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOjsJt8uXSQcXhP1H+nbWBQhY9wcWBgiWekyHw4tVRYjYA4hVScgUA3sH+8aJt8tVRYjY9wcWBgiWekyHQ4tVRYjYA4hVScgUA3oHOLrSunbYB4rGRAnVRYpJiXuSyMqXA4hVScgUA3rGe8aJt8dWyMvWxvoTRskUxz1YuIaTh4vYB4oSxUkZBQfSu7pHA3" style = "fill:none; stroke:Black; stroke-width:1" x = "838," y = "240," width = "668," height = "314," rx = "0," ry = "0," />
+<toolpath name-id = "w6" style = "fill:none; stroke:Black; stroke-width:1" toolpath-config = "Tx4oXB4pUR0vXukyIOnbY+/1FuAaHA3rSu8aHA3rSu8aHA3rSu8aHA4aHA3rSu8aHA3rSu8aSr" x = "928," y = "308," width = "80," height = "72," />
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="2500" height="1000">
+<model></model>
+<createtime>2017年6月26日 18:45</createtime>
+<lastmodified>2017年6月26日 18:46</lastmodified>
+<designer></designer>
+<part_params></part_params>
+<pathorder></pathorder>
+<tools></tools>
+<desc>门板设计</desc>
+<rect name-id = "w1" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOjsJt8uXSQcXhP1H7" style = "fill:none; stroke:Black; stroke-width:2" x = "178," y = "104," width = "992," height = "60," rx = "0," ry = "0," />
+<rect name-id = "w2" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOkhVScgU+nbXyAwTSEgJe72DBsgUiLoTRskUxz1YuAaWBQhYA4hVScgUA3rGe8aJt8tVRYjY9wcWBgiWekyHQ4tVRYjYA4hVScgUA3rGe8aJt80TxQpYBQtGRAnVRYpJiXsSygeUR0vUSEaUhgzURMaH9zrSr" style = "fill:none; stroke:Black; stroke-width:2" x = "178," y = "276," width = "1002," height = "87," rx = "0," ry = "0," />
+<rect name-id = "w3" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOkhVScgU+nbXyAwTSEgJe72DBsgUiLoTRskUxz1YuAaWBQhYA4hVScgUA3rGe8aJt8tVRYjY9wcWBgiWekyHQ4tVRYjYA4hVScgUA3rGe8aJt80TxQpYBQtGRAnVRYpJiXsSygeUR0vUSEaUhgzURMaH9zrSr" style = "fill:none; stroke:Black; stroke-width:2" x = "164," y = "452," width = "1010," height = "87," rx = "0," ry = "0," />
+<toolpath name-id = "w4" style = "fill:none; stroke:Black; stroke-width:2" toolpath-config = "Tx4oXB4pUR0vXukyHOnbWyQvWBgpUOjsJt8vHOjmHQ3rSu8aHA3rSu8aHA3rSu8aHA3rSw3rSu8aHA3rSu8aHA4a" x = "270," y = "122," width = "138," height = "34," />
+<toolpath name-id = "w5" style = "fill:none; stroke:Black; stroke-width:2" toolpath-config = "Tx4oXB4pUR0vXukyHenbY+/1FuAaHA3rSu8aHA3rSu8aHA3rSu8aHA4aHA3rSu8aHA3rSu8aS2FerVX" x = "256," y = "294," width = "126," height = "50," />
+<toolpath name-id = "w6" style = "fill:none; stroke:Black; stroke-width:2" toolpath-config = "Tx4oXB4pUR0vXukyHunbY+/1FuAaHA3rSu8aHA3rSu8aHA3rSu8aHA4aHA3rSu8aHA3rSu8aS2FerVX" x = "252," y = "468," width = "132," height = "56," />
+</svg>

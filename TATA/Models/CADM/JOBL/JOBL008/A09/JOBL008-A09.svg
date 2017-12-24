@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="2500" height="1000">
+<model></model>
+<createtime>2017年5月16日 11:23</createtime>
+<lastmodified>2017年7月8日 11:22</lastmodified>
+<designer></designer>
+<part_params></part_params>
+<pathorder></pathorder>
+<tools></tools>
+<desc>门板设计</desc>
+<rect name-id = "w1" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOjsJt8uXSQcXhP1H7" style = "fill:none; stroke:Black; stroke-width:2" x = "190," y = "60," width = "1028," height = "214," rx = "0," ry = "0," />
+<rect name-id = "w2" align-attribute = "XyMtUSMeV9wzJhUkZBQfJt8uYCEgYBIjGSf1UhgzURL2DCIsYRAtUOjrJt8nURUvGRAnVRYpJiXvSxsgUiMaUhgzURMaH9zrSunbYB4rGRAnVRYpJiXvSyMqXA4hVScgUA3rGe8a" style = "fill:none; stroke:Black; stroke-width:2" x = "78," y = "318," width = "688," height = "35," rx = "0," ry = "0," />
+<rect name-id = "w3" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOkhVScgU+nbXyAwTSEgJe72DBsgUiLoTRskUxz1YuEaWBQhYA4hVScgUA3rGe8aJt8tVRYjY9wcWBgiWekyHg4tVRYjYA4hVScgUA3rGe8aJt8dWyMvWxvoTRskUxz1YuMaTh4vYB4oSxUkZBQfSu7pHA3" style = "fill:none; stroke:Black; stroke-width:2" x = "78," y = "636," width = "688," height = "35," rx = "0," ry = "0," />
+<rect name-id = "w4" align-attribute = "XyMtUSMeV9wzJhUkZBQfJt8uYCEgYBIjGSf1HOnbXyAwTSEgJe72DBsgUiLoTRskUxz1YuAaWBQhYA4hVScgUA3sIuUaJt8vWy7oTRskUxz1YuAaYB4rSxUkZBQfStvsHeUaJt8dWyMvWxvoTRskUxz1YuAaTh4vYB4oSxUkZBQfSu/tIg3" style = "fill:none; stroke:Black; stroke-width:2" x = "78," y = "320," width = "35," height = "352," rx = "0," ry = "0," />
+<rect name-id = "w5" align-attribute = "XyMtUSMeV9wzJhUkZBQfJt8uYCEgYBIjGSf1HOnbXyAwTSEgJe72DCEkUxcvGRAnVRYpJiXtSyEkUxcvSxUkZBQfSw32DCMqX9wcWBgiWekyIA4vWy8aUhgzURMaH9zrSunbTh4vYB4oGRAnVRYpJiXvSxEqYCMqWQ4hVScgUA3rGe8a" style = "fill:none; stroke:Black; stroke-width:2" x = "734," y = "322," width = "35," height = "356," rx = "0," ry = "0," />
+<toolpath name-id = "w6" style = "fill:none; stroke:Black; stroke-width:2" toolpath-config = "Tx4oXB4pUR0vXukyHOnbWyQvWBgpUOjsJt8vHOjmHQ3rSu8aHA3rSu8aHA3rSu8aHA3rSw3rSu8aHA3rSu8aHA4a" x = "332," y = "178," width = "66," height = "68," />
+<toolpath name-id = "w7" style = "fill:none; stroke:Black; stroke-width:2" toolpath-config = "Tx4oXB4pUR0vXukyHenbY+/1FuAaHA3rSu8aHA3rSu8aHA3rSu8aHA4aHA3rSu8aHA3rSu8aS26Wu46H4SsjH+UdJt8vHOjmHQ3rSu8aHA3rSu8aHA3rSu8aHA3rSw3rSu8aHA3rSu8aHA4aq4qKy3uwaBbrIhD" x = "120," y = "728," width = "66," height = "68," />
+<toolpath name-id = "w10" style = "fill:none; stroke:Black; stroke-width:2" toolpath-config = "Tx4oXB4pUR0vXukyHunbY+/1FuAaHA3rSu8aHA3rSu8aHA3rSu8aHA4aHA3rSu8aHA3rSu8aS26Wu46H4SsjH+UdJt8vHOjmHQ3rSu8aHA3rSu8aHA3rSu8aHA3rSw3rSu8aHA3rSu8aHA4aq4qKy3uwaBbrIhD" x = "204," y = "724," width = "66," height = "68," />
+<toolpath name-id = "w11" style = "fill:none; stroke:Black; stroke-width:2" toolpath-config = "Tx4oXB4pUR0vXukyI+nbY+/1FuAaHA3rSu8aHA3rSu8aHA3rSu8aHA4aHA3rSu8aHA3rSu8aS26Wu46H4SsjH+UdJt8vHOjmHQ3rSu8aHA3rSu8aHA3rSu8aHA3rSw3rSu8aHA3rSu8aHA4aq4qKy3uwaBbrIhD" x = "288," y = "734," width = "66," height = "68," />
+<toolpath name-id = "w12" style = "fill:none; stroke:Black; stroke-width:2" toolpath-config = "Tx4oXB4pUR0vXukyIOnbY+/1FuAaHA3rSu8aHA3rSu8aHA3rSu8aHA4aHA3rSu8aHA3rSu8aS26Wu46H4SsjH+UdJt8vHOjmHQ3rSu8aHA3rSu8aHA3rSu8aHA3rSw3rSu8aHA3rSu8aHA4aq4qKy3uwaBbrIhD" x = "376," y = "732," width = "66," height = "68," />
+<rect name-id = "w28" align-attribute = "XyMtUSMeV9wzJhUkZBQfJt8uYCEgYBIjGSf1HOnbXyAwTSEgJe72DCEkUxcvGRAnVRYpJiXtIQ4tVRYjYA4hVScgUA3rGe8aJt8vWy7oTRskUxz1YuMaYB4rSxUkZBQfSu7pHA32DBEqYCMqWNwcWBgiWekyIA4dWyMvWxwaUhgzURMaH9zrSr" style = "fill:none; stroke:Black; stroke-width:2" x = "1238," y = "370," width = "35," height = "356," rx = "0," ry = "0," />
+<rect name-id = "w27" align-attribute = "XyMtUSMeV9wzJhUkZBQfJt8uYCEgYBIjGSf1HOnbXyAwTSEgJe72DBsgUiLoTRskUxz1YuQaXhgiVCMaUhgzURMaHO7tSunbYB4rGRAnVRYpJiXvSyMqXA4hVScgUA3rGe8aJt8dWyMvWxvoTRskUxz1YuMaTh4vYB4oSxUkZBQfSu7pHA3" style = "fill:none; stroke:Black; stroke-width:2" x = "1010," y = "358," width = "35," height = "352," rx = "0," ry = "0," />
+<rect name-id = "w26" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOkhVScgU+nbXyAwTSEgJe72DBsgUiLoTRskUxz1YuDwSxsgUiMaUhgzURMaH9zrSunbXhgiVCLoTRskUxz1YuDwSyEkUxcvSxUkZBQfSu7pHA32DBEqYCMqWNwcWBgiWekyHw4dWyMvWxwaUhgzURMaH9zrSr" style = "fill:none; stroke:Black; stroke-width:2" x = "1016," y = "682," width = "268," height = "35," rx = "0," ry = "0," />
+<rect name-id = "w25" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOkhVScgU+nbXyAwTSEgJe72DBsgUiLoTRskUxz1YuDySxsgUiMaUhgzURMaH9zrSunbXhgiVCLoTRskUxz1YuAaXhgiVCMaUhgzURMaGO/vIg32DCMqX9wcWBgiWekyHg4vWy8aUhgzURMaH9zrSr" style = "fill:none; stroke:Black; stroke-width:2" x = "1006," y = "360," width = "270," height = "35," rx = "0," ry = "0," />
+<toolpath name-id = "w36" style = "fill:none; stroke:Black; stroke-width:2" toolpath-config = "Tx4oXB4pUR0vXukyHeT2DCLsJdnsSu8aHA3rSu8aHA3rSu8aHA3rSu8aSu8aHA3rSu8aHA3rSw56x36auKQ3V+7xTOnbY+/1FuAaHA3rSu8aHA3rSu8aHA3rSu8aHA4aHA3rSu8aHA3rSu8aS26Wu46H4SsjH+Uc" x = "1194," y = "780," width = "66," height = "68," />
+<toolpath name-id = "w35" style = "fill:none; stroke:Black; stroke-width:2" toolpath-config = "Tx4oXB4pUR0vXukyHeb2DCLsJdnsSu8aHA3rSu8aHA3rSu8aHA3rSu8aSu8aHA3rSu8aHA3rSw56x36auKQ3V+7xTOnbY+/1FuAaHA3rSu8aHA3rSu8aHA3rSu8aHA4aHA3rSu8aHA3rSu8aS26Wu46H4SsjH+Uc" x = "1110," y = "766," width = "66," height = "68," />
+<toolpath name-id = "w34" style = "fill:none; stroke:Black; stroke-width:2" toolpath-config = "Tx4oXB4pUR0vXukyHeP2DCLsJdnsSu8aHA3rSu8aHA3rSu8aHA3rSu8aSu8aHA3rSu8aHA3rSw56x36auKQ3V+7sHh/2DCLsJdnsSu8aHA3rSu8aHA3rSu8aHA3rSu8aSu8aHA3rSu8aHA3rSw56x36auKQ3V+7xTL" x = "1022," y = "772," width = "66," height = "68," />
+<toolpath name-id = "w33" style = "fill:none; stroke:Black; stroke-width:2" toolpath-config = "Tx4oXB4pUR0vXukyHeX2DCLsJdnsSu8aHA3rSu8aHA3rSu8aHA3rSu8aSu8aHA3rSu8aHA3rSw56x36auKQ3V+7xTOnbY+/1FuAaHA3rSu8aHA3rSu8aHA3rSu8aHA4aHA3rSu8aHA3rSu8aS26Wu46H4SsjH+/tTL" x = "938," y = "776," width = "66," height = "68," />
+</svg>

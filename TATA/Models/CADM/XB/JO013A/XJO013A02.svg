@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="2494" height="1194">
+<model></model>
+<createtime>2017年6月23日 12:03</createtime>
+<lastmodified>2017年6月23日 15:17</lastmodified>
+<designer></designer>
+<part_params></part_params>
+<pathorder></pathorder>
+<tools></tools>
+<desc>门板设计</desc>
+<rect name-id = "w1" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOjsJt8uXSQcXhP1H7" style = "fill:none; stroke:Black; stroke-width:1" x = "120," y = "40," width = "1034," height = "76," rx = "0," ry = "0," />
+<rect name-id = "w2" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOjsJt8uXSQcXhP1H+nbWBQhY9wcWBgiWekyHQ4tVRYjYA4hVScgUA4aGNbfUBroHODtHtf2DCEkUxcvGRAnVRYpJiXsSyEkUxcvSxUkZBQfStvsH+8aJt8vWy7oTRskUxz1YuAaZRIgWiMgXg4hVScgUA3rGe8aF9MfYtvtIOHkGuD2DBEqYCMqWNwcWBgiWekyHQ40TxQpYBQtSxUkZBQfSu7pHA3oF9bfUCXoHePuFN3tFL" style = "fill:none; stroke:Black; stroke-width:1" x = "170," y = "150," width = "378," height = "256," rx = "0," ry = "0," />
+<toolpath name-id = "w3" style = "fill:none; stroke:Black; stroke-width:1" toolpath-config = "Tx4oXB4pUR0vXukyHOnbWyQvWBgpUOjsJt8vHOjmHQ3rSu8aHA3rSu8aHA3rSu8aHA3rSw3rSu8aHA3rSu8aHA4a" x = "1184," y = "48," width = "66," height = "64," />
+<toolpath name-id = "w4" style = "fill:none; stroke:Black; stroke-width:1" toolpath-config = "Y+/1FuAaHA3rSu8aHA3rSu8aHA3rSu8aHA4aHA3rSu8aHA3rSu8aS3KAvG1r0SseWhI3ZBkqH+/rGe7t777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777" x = "42," y = "196," width = "70," height = "66," />
+<line name-id = "w5" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOkhVScgU+nbWBQhY9wcWBgiWekyHg4nURUvSxUkZBQfSubwSunbXhgiVCLoTRskUxz1YuEaXhgiVCMaUhgzURMaGObwSunbYB4rGRAnVRYpJiXsIQ4vWy8aUhgzURMaH9zrStvjF9MfYtvvHeHkGuTk" style = "fill:none; stroke:Black; stroke-width:1" x1 = "136," y1 = "456," x2 = "550," y2 = "456," />
+<line name-id = "w6" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOkhVScgU+nbWBQhY9wcWBgiWekyIQ4nURUvSxUkZBQfSu7pHA32DCEkUxcvGRAnVRYpJiXwSyEkUxcvSxUkZBQfSu7pHA32DCMqX9wcWBgiWekyIQ4vWy8aUhgzURMaH9zrStvjF9MfYtvvHeHkGuTk" style = "fill:none; stroke:Black; stroke-width:1" x1 = "180," y1 = "506," x2 = "594," y2 = "506," />
+<line name-id = "w7" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOkhVScgU+nbWBQhY9wcWBgiWekyIQ4nURUvSxUkZBQfSu7pHA32DCEkUxcvGRAnVRYpJiXwSyEkUxcvSxUkZBQfSu7pHA32DCMqX9wcWBgiWekyIg4vWy8aUhgzURMaH9zrStvjF9MfYtvvHeHkGuTk" style = "fill:none; stroke:Black; stroke-width:1" x1 = "222," y1 = "556," x2 = "636," y2 = "556," />
+<line name-id = "w8" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOkhVScgU+nbWBQhY9wcWBgiWekyIQ4nURUvSxUkZBQfSu7pHA32DCEkUxcvGRAnVRYpJiXwSyEkUxcvSxUkZBQfSu7pHA32DCMqX9wcWBgiWekyIw4vWy8aUhgzURMaH9zrStvjF9MfYtvvHeHkGuTk" style = "fill:none; stroke:Black; stroke-width:1" x1 = "246," y1 = "608," x2 = "660," y2 = "608," />
+<line name-id = "w9" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOkhVScgU+nbWBQhY9wcWBgiWekyIQ4nURUvSxUkZBQfSu7pHA32DCEkUxcvGRAnVRYpJiXwSyEkUxcvSxUkZBQfSu7pHA32DCMqX9wcWBgiWekyJA4vWy8aUhgzURMaH9zrStvjF9MfYtvvHeHkGuTk" style = "fill:none; stroke:Black; stroke-width:1" x1 = "280," y1 = "648," x2 = "694," y2 = "648," />
+<toolpath name-id = "w10" style = "fill:none; stroke:Black; stroke-width:1" toolpath-config = "Y+/1FuAaHNzwSu8aHA3rSu8aHA3rSu8aHA3rSw3rSu8aHA3rSu8aHA4a" x = "70," y = "676," width = "58," height = "62," />
+<toolpath name-id = "w11" style = "fill:none; stroke:Black; stroke-width:1" toolpath-config = "Y+/1FuAaHNzwSu8aHA3rSu8aHA3rSu8aHA3rSw3rSu8aHA3rSu8aHA4a" x = "176," y = "682," width = "58," height = "62," />
+<toolpath name-id = "w12" style = "fill:none; stroke:Black; stroke-width:1" toolpath-config = "Y+/1FuAaHNzwSu8aHA3rSu8aHA3rSu8aHA3rSw3rSu8aHA3rSu8aHA4a" x = "268," y = "690," width = "58," height = "62," />
+<toolpath name-id = "w13" style = "fill:none; stroke:Black; stroke-width:1" toolpath-config = "Y+/1FuAaHNzwSu8aHA3rSu8aHA3rSu8aHA3rSw3rSu8aHA3rSu8aHA4a" x = "456," y = "698," width = "58," height = "62," />
+<toolpath name-id = "w14" style = "fill:none; stroke:Black; stroke-width:1" toolpath-config = "Y+/1FuAaHNzwSu8aHA3rSu8aHA3rSu8aHA3rSw3rSu8aHA3rSu8aHA4a" x = "358," y = "694," width = "58," height = "62," />
+<line name-id = "w15" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOkhVScgU+nbWBQhY9wcWBgiWekyHg4nURUvSxUkZBQfSu7pHA32DCEkUxcvGRAnVRYpJiXtSyEkUxcvSxUkZBQfSu7pHA32DCMqX9wcWBgiWekyHg4vWy8aUhgzURMaGObwSr" style = "fill:none; stroke:Black; stroke-width:1" x1 = "656," y1 = "172," x2 = "972," y2 = "172," />
+<arc name-id = "w16" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOjsJt8nURUvGRAnVRYpJiXsSyEkUxcvSxUkZBQfStvsIO8aJt8tVRYjY9wcWBgiWekyHQ4tVRYjYA4hVScgUA3oHO7rSunbYB4rGRAnVRYpJiXtSyMqXA4hVScgUA3rGe8aJt8dWyMvWxvoTRskUxz1YuEaTh4vYB4oSxUkZBQfSu7pHA3" style = "fill:none; stroke:Black; stroke-width:1" x1 = "842," y1 = "806," x2 = "842," y2 = "1060," cx = "882," cy = "918," />
+<toolpath name-id = "w17" style = "fill:none; stroke:Black; stroke-width:1" toolpath-config = "Tx4oXB4pUR0vXukyHOcyHOgyHOUyHe72DCLsJdnsSu8aHA3rSu8aHA3rSu8aHA3rSu8aSu8aHA3rSu8aHA3rSw6+sY95nJQ3Tx0eaCclWu7sHx/pH+D" x = "374," y = "906," width = "200," height = "54," />
+<line name-id = "w18" align-attribute = "XyMtUSMeV9wzJhUkZBQfJt8uYCEgYBIjGSf1HOnbWBQhY9wcWBgiWekyHg4nURUvSxUkZBQfSu7pHA32DCMqX9wcWBgiWekyHOgaYB4rSxUkZBQfSu7pHA32DBEqYCMqWNwcWBgiWekyHe8aTh4vYB4oSxUkZBQfSu7pHA3" style = "fill:none; stroke:Black; stroke-width:1" x1 = "318," y1 = "806," x2 = "318," y2 = "1070," />
+<line name-id = "w19" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOkhVScgU+nbWBQhY9wcWBgiWekyHOcaWBQhYA4hVScgUA3rGe8aJt8tVRYjY9wcWBgiWekyHOUaWBQhYA4hVScgUA3rGe8aJt8vWy7oTRskUxz1YuEaYB4rSxUkZBQfSu7pHA3" style = "fill:none; stroke:Black; stroke-width:1" x1 = "324," y1 = "804," x2 = "840," y2 = "804," />
+<line name-id = "w20" align-attribute = "XyMtUSMeV9wzJe/2DCIvXhQvTxboZOkhVScgU+nbWBQhY9wcWBgiWekyHOcaWBQhYA4hVScgUA3rGe8aJt8tVRYjY9wcWBgiWekyHOUaWBQhYA4hVScgUA3rGe8aJt8dWyMvWxvoTRskUxz1YuEaTh4vYB4oSxUkZBQfSu7pHA3" style = "fill:none; stroke:Black; stroke-width:1" x1 = "322," y1 = "1072," x2 = "844," y2 = "1072," />
+</svg>
